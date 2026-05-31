@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 
-const API = 'http://localhost:3001';
+const API = '';
 
 const SERVICIOS = [
   { id: 'manicura_clasica', nombre: '💅 Manicura Clásica', duracion: '45 min', precio: '$2.500' },
